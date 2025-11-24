@@ -1,4 +1,4 @@
-# 🌐 **DyexaCodes – About**
+# 🌐 **About**
 
 Welcome to the **official identity hub** of the DyexaCodes GitHub Organization.
 This repository defines **who we are**, **what we build**, and **how our ecosystem operates**.
@@ -59,7 +59,7 @@ To evolve into a fully integrated software organization known for reliability, w
 
 ```
 ╭────────────────────────────╮
-│        D Y E X A C O D E S │
+│     D Y E X A C O D E S    │
 ╰────────────────────────────╯
 ```
 
@@ -83,8 +83,8 @@ To evolve into a fully integrated software organization known for reliability, w
 
 > Dynamic GitHub stats (auto-updated):
 
-![Org Stats](https://github-readme-stats.vercel.app/api?username=DyexaCodes\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DyexaCodes\&layout=compact\&theme=tokyonight)
+![Org Stats](https://github-readme-stats.vercel.app/api?username=Dyexahub\&show_icons=true\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyexahub\&layout=compact\&theme=tokyonight)
 
 ---
 
