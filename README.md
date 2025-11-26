@@ -15,33 +15,6 @@ This repository represents our **public profile** and serves as the foundation f
 
 ---
 
-# 📌 **Table of Contents**
-
-1. [Mission & Vision](#mission--vision)
-2. [Core Values](#core-values)
-3. [Identity & Branding](#identity--branding)
-4. [Organization Stats](#organization-stats)
-5. [Tech Stack & Tools](#tech-stack--tools)
-6. [Repository Map](#repository-map)
-7. [Documentation Standards](#documentation-standards)
-8. [Contribution Rules](#contribution-rules)
-9. [Future Roadmap](#future-roadmap)
-10. [Contact](#contact)
-
----
-
-# 🌟 **Mission & Vision**
-
-### **Mission**
-
-To build a modern, structured, and experiment-driven development ecosystem that supports innovation and scalability across the Dyexa project family.
-
-### **Vision**
-
-To evolve into a fully integrated software organization known for reliability, workflow discipline, and forward-thinking engineering principles.
-
----
-
 # 💠 **Core Values**
 
 * **Clean Engineering** – Code should be readable, structured, and scalable.
@@ -52,16 +25,6 @@ To evolve into a fully integrated software organization known for reliability, w
 * **Consistency** – Standards exist for a reason.
 
 ---
-
-# 🎨 **Identity & Branding**
-
-### **Brand Icons & Identity Symbols**
-
-```
-╭────────────────────────────╮
-│     D Y E X A C O D E S    │
-╰────────────────────────────╯
-```
 
 ### **Brand Colors**
 
@@ -170,17 +133,6 @@ chore: update dependencies
 * Follow naming conventions
 * Respect repo standards
 * Review other contributions when possible
-
----
-
-# 🛣️ **Future Roadmap**
-
-* [ ] Org-wide code style guide
-* [ ] Standardized PR & issue templates
-* [ ] CI/CD pipelines for every repo
-* [ ] Centralized components library
-* [ ] Organization website (Landing Page)
-* [ ] Release versioning policy
 
 ---
 
