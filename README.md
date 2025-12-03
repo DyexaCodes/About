@@ -1,4 +1,4 @@
-# 🌐 **About**
+# 🌐 **About** 
 
 Welcome to the **official identity hub** of the DyexaCodes GitHub Organization.
 This repository defines **who we are**, **what we build**, and **how our ecosystem operates**.
